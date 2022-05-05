@@ -3,7 +3,9 @@
 ## O que são esses princípios?
 
 ````
-Eles correspondem a um conjunto de fundamentos que representam um complemento dos valores e reforçam a importância da comunicação e da satisfação dos envolvidos. Além disso, também destacam a entrega contínua em um ritmo saudável e a funcionalidade do software ou produto.
+Eles correspondem a um conjunto de fundamentos que representam um complemento dos valores 
+e reforçam a importância da comunicação e da satisfação dos envolvidos. 
+Além disso, também destacam a entrega contínua em um ritmo saudável e a funcionalidade do software ou produto.
 
 Tudo isso, sempre priorizando pessoas e soluções em detrimento dos processos burocráticos do modelo tradicional de gestão de projetos.
 ````
