@@ -1,5 +1,5 @@
 # entra21_grupo
-> Repositório colaborativo
+> Repositório colaborativo teste
 
 ````python
 Participantes: Gustavo & Gabriel True
